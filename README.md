@@ -17,3 +17,5 @@ Poleg pina se izpiše ADC1_IN5
 10bit 0-1023
 
 12bit 0-4095
+
+Komentar: Program pri obračanju potenciometra izpisuje njegovo vrednost na zaslonu pod Live expressions.
